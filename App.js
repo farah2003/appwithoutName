@@ -5,6 +5,7 @@ export default class ButtonOutlineExample extends Component {
     return (
       <View>
           <Text>FGHJK</Text>
+          <Text>FGHMHJ</Text>
       </View>
       
     );
